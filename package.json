@@ -1,0 +1,19 @@
+{
+  "name": "algenisdev",
+  "version": "1.0.0",
+  "description": "Mi Protafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlgenis/AlgenisDev.git"
+  },
+  "author": "Algenis Muñoz xlgenisco@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlgenis/AlgenisDev/issues"
+  },
+  "homepage": "https://github.com/xlgenis/AlgenisDev#readme"
+}
