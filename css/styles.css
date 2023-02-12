@@ -26,3 +26,28 @@
     margin-left: 20px;
     color: white;
 }
+.banner {
+    display: flex;
+    padding: 80px 10%;
+    justify-content: space-between;
+}
+
+.imagen{
+    width: 250px;
+    height: 250px;
+    background: gray;
+    border-radius: 50%;
+    border-radius: 2px dotted #ffffff;
+    
+
+}
+.quien-soy{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
+
